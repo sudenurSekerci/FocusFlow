@@ -1,0 +1,17 @@
+---
+description: FocusFlow proje stack ve mimari
+---
+
+# FocusFlow Proje Stack
+
+## Teknoloji
+- **Frontend**: React 18 + TypeScript
+- **Build**: Vite 5
+- **Lint**: ESLint + TypeScript ESLint
+
+## Klasör Yapısı
+- `src/types/` - TypeScript tip tanımları (Task, ImportanceLevel, vb.)
+- `src/components/` - UI bileşenleri
+- `src/hooks/` - Custom React hooks
+- `src/utils/` - Yardımcı fonksiyonlar
+- `src/services/` - API ve veri servisleri (ileride)
